@@ -1,5 +1,3 @@
-# **This simple addon adds useful information for Botania in JEI.**
+***Backported game mode switcher from 1.16+***
 
-![pure daisy jei](https://i.imgur.com/9UEIaKE.png)
-![mana infusion jei](https://i.imgur.com/ZbAOx8N.png)
-![runic altar jei](https://i.imgur.com/3nbF34N.png)
+>https://www.curseforge.com/minecraft/mc-mods/legacy-gamemode-switcher
