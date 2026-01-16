@@ -1,0 +1,4 @@
+debug.gamemodes.error=ບໍ່ສາມາດເປີດໂຕສະຫຼັບໂໝດເກມໄດ້; ເນື່ອງຈາກບໍ່ໄດ້ຮັບອະນຸຍາດ
+debug.gamemodes.help=F3 + F4 = ເປີດໂຕສະຫຼັບໂໝດເກມ
+debug.gamemodes.press_f4=[ F4 ]
+debug.gamemodes.select_next=%s ຕໍ່ໄປ

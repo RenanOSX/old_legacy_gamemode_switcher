@@ -1,0 +1,4 @@
+debug.gamemodes.error=Не вышло открыть переключатель режима игры, недостаточно полномочій
+debug.gamemodes.help=F3 + F4 = Открыть меню смѣны режима игры
+debug.gamemodes.press_f4=[ F4 ]
+debug.gamemodes.select_next=%s — далѣе

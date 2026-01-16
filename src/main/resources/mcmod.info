@@ -1,0 +1,12 @@
+[{
+    "modid": "${modid}",
+    "name": "${modname}",
+    "description": "Backported F3-F4 gamemode switcher",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "logoFile": "logo.png",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/legacy-gamemode-switcher",
+    "authorList": ["beecube31"],
+    "credits": "NekitFbetc",
+    "dependencies": []
+}]

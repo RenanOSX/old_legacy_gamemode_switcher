@@ -1,0 +1,4 @@
+debug.gamemodes.error=Oyun modu değiştiricisi açılamadı, yetkiniz yok
+debug.gamemodes.help=F3 + F4 = Oyun modu değiştiricisini aç
+debug.gamemodes.press_f4=[ F4 ]
+debug.gamemodes.select_next=%s Sonraki

@@ -1,0 +1,4 @@
+debug.gamemodes.error=Nevar atvert spēles režīma pārslēdzēju, nav atļaujas
+debug.gamemodes.help=F3 + F4 = Atver spēles režīma pārslēdzēju
+debug.gamemodes.press_f4=[ F4 ]
+debug.gamemodes.select_next=%s Nākamais

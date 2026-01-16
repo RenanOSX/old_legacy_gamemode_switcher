@@ -1,0 +1,4 @@
+debug.gamemodes.error=Non se puido abrir o menú de modos de xogo, non tes permisos
+debug.gamemodes.help=F3 + F4= Abrir menú dos modos de xogo
+debug.gamemodes.press_f4=[ F4]
+debug.gamemodes.select_next=%s Seguinte

@@ -1,0 +1,4 @@
+debug.gamemodes.error=Kan ikke åpne spillmodusveksler, ikke tillatelse
+debug.gamemodes.help=F3 + F4 = Åpne spillmodusveksler
+debug.gamemodes.press_f4=[ F4 ]
+debug.gamemodes.select_next=%s neste

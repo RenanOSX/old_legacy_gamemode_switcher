@@ -1,0 +1,4 @@
+debug.gamemodes.error=Nu este permisă deschiderea comutatorul modului de joc; fără permisiune
+debug.gamemodes.help=F3 + F4 = Deschide comutatorul modului de joc
+debug.gamemodes.press_f4=[ F4 ]
+debug.gamemodes.select_next=%s Următorul

@@ -1,0 +1,4 @@
+debug.gamemodes.error=Nelze otevřít přepínač herního módu, není oprávnění
+debug.gamemodes.help=F3 + F4 = Otevřít přepínač herního módu
+debug.gamemodes.press_f4=[ F4 ]
+debug.gamemodes.select_next=%s další

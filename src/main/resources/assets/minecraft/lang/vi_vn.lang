@@ -1,0 +1,4 @@
+debug.gamemodes.error=Không thể mở giao diện đổi chế độ chơi, không có quyền
+debug.gamemodes.help=F3 + F4 = Mở giao diện đổi chế độ chơi
+debug.gamemodes.press_f4=[ F4 ]
+debug.gamemodes.select_next=%s Tiếp theo

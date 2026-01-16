@@ -1,0 +1,4 @@
+debug.gamemodes.error=Није могуће отворити мењање режима игре, нема дозволе
+debug.gamemodes.help=F3 + F4 = Отвори мењање режима игре
+debug.gamemodes.press_f4=[ F4 ]
+debug.gamemodes.select_next=%s Даље

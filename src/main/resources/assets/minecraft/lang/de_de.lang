@@ -1,0 +1,4 @@
+debug.gamemodes.error=Spielmodusauswahl kann wegen fehlender Berechtigung nicht geöffnet werden
+debug.gamemodes.help=F3 + F4 = Spielmodusauswahl öffnen
+debug.gamemodes.press_f4=[ F4 ]
+debug.gamemodes.select_next=%s Nächster

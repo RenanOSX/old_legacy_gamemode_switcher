@@ -1,0 +1,4 @@
+debug.gamemodes.error=No tens permisos per obrir el seleccionador del mode de joc
+debug.gamemodes.help=F3 + F4 = Obri el seleccionador del mode de joc
+debug.gamemodes.press_f4=[ F4 ]
+debug.gamemodes.select_next=%s següent

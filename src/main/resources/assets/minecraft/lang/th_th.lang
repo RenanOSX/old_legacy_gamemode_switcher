@@ -1,0 +1,4 @@
+debug.gamemodes.error=ไม่สามารถเปิดตัวสลับโหมดเกมได้ เนื่องจากไม่มีสิทธิ์
+debug.gamemodes.help=F3 + F4 = เปิดตัวสลับโหมดเกม
+debug.gamemodes.press_f4=[ F4 ]
+debug.gamemodes.select_next=%s ถัดไป

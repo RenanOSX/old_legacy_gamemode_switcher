@@ -1,0 +1,4 @@
+debug.gamemodes.error=Nepavyko atidaryti žaidimo režimo keitiklio, nėra leidimo
+debug.gamemodes.help=F3 + F4 = Atidaryti žaidimo režimo keitiklį
+debug.gamemodes.press_f4=[ F4 ]
+debug.gamemodes.select_next=%s - sekantis

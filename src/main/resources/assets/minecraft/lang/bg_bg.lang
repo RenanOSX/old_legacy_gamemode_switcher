@@ -1,0 +1,4 @@
+debug.gamemodes.error=Превключвателят на игровия режим не може да се отвори, няма разрешение
+debug.gamemodes.help=F3 + F4 = Отвори превключвателя на игровия режим
+debug.gamemodes.press_f4=[ F4 ]
+debug.gamemodes.select_next=%s следващ

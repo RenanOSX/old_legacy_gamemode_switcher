@@ -1,0 +1,4 @@
+debug.gamemodes.error=Не може да се отвори менувачот на режим на игра, нема дозвола
+debug.gamemodes.help=F3 + F4 = Отвори менувач на режжимот на игра
+debug.gamemodes.press_f4=[ F4 ]
+debug.gamemodes.select_next=%s Следно

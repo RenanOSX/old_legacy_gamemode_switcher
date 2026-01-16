@@ -1,0 +1,4 @@
+debug.gamemodes.error=Nie można otworzyć interfejsu zmiany trybu gry, brak uprawnień
+debug.gamemodes.help=F3 + F4 = Otwórz interfejs zmiany trybu gry
+debug.gamemodes.press_f4=[ F4 ]
+debug.gamemodes.select_next=%s — następny

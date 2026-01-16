@@ -1,0 +1,4 @@
+debug.gamemodes.error=Ekki hægt að opna leikgerðabreytir, engin heimild
+debug.gamemodes.help=F3 + F4 = Opna leikgerðabreytir
+debug.gamemodes.press_f4=[ F4 ]
+debug.gamemodes.select_next=%s Næsta

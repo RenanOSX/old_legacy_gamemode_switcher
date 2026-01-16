@@ -1,0 +1,4 @@
+debug.gamemodes.error=권한이 없어 게임 모드 전환기를 열 수 없습니다
+debug.gamemodes.help=F3 + F4 = 게임 모드 전환기 열기
+debug.gamemodes.press_f4=[ F4 ]
+debug.gamemodes.select_next=%s 다음

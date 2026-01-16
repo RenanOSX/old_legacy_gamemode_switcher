@@ -1,0 +1,4 @@
+debug.gamemodes.error=Δεν ήταν δυνατή η αλλαγή της λειτουργίας παιχνιδιού· χωρίς άδεια
+debug.gamemodes.help=F3 + F4 = Άνοιγμα αλλαγής λειτουργίας παιχνιδιού
+debug.gamemodes.press_f4=[ F4 ]
+debug.gamemodes.select_next=%s Επόμενη

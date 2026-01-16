@@ -1,0 +1,4 @@
+debug.gamemodes.error=Tidak dapat membuka peralih mode permainan; tidak ada izin
+debug.gamemodes.help=F3 + F4 = Buka peralih mode permainan
+debug.gamemodes.press_f4=[ F4 ]
+debug.gamemodes.select_next=%s Lanjut

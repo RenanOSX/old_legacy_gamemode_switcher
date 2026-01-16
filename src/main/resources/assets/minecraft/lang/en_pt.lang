@@ -1,0 +1,4 @@
+debug.gamemodes.error=Ye can nah be openin' mode o' game switcher; ye do nah have captain's permission
+debug.gamemodes.help=F3 + F4 = Open rank switcher
+debug.gamemodes.press_f4=[ F4 ]
+debug.gamemodes.select_next=%s Next

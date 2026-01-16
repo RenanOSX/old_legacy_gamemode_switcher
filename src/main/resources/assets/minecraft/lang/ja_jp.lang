@@ -1,0 +1,4 @@
+debug.gamemodes.error=ゲームモード切り替え画面を開くための権限がありません
+debug.gamemodes.help=F3 + F4 = ゲームモード切り替え画面を開く
+debug.gamemodes.press_f4=［F4］
+debug.gamemodes.select_next=%sで次を選択

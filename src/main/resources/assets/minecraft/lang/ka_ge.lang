@@ -1,0 +1,4 @@
+debug.gamemodes.error=ვერ მოხერხდა თამაშის რეჟიმის გადამრთველის გახსნა; არაა საკმარისი უფლებამოსილება
+debug.gamemodes.help=F3 + F4 = თამაშის რეჟიმის გადამრთველის გახსნა
+debug.gamemodes.press_f4=[ F4 ]
+debug.gamemodes.select_next=%s შემდეგი

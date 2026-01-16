@@ -1,0 +1,4 @@
+debug.gamemodes.error=விளையாட்டு முறை மாற்றியை திறக்க முடியவில்லை, அனுமதி இல்லை
+debug.gamemodes.help=F3 + F4 = திறந்த விளையாட்டு முறை மாற்றி
+debug.gamemodes.press_f4=[ F4 ]
+debug.gamemodes.select_next=%s அடுத்து

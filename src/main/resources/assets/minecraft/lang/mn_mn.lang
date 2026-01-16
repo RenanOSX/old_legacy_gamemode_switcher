@@ -1,0 +1,4 @@
+debug.gamemodes.error=Тоглоомын горим солигч ашиглах эрхгүй байна
+debug.gamemodes.help=F3 + F4 = Тоглоомын горим солигч
+debug.gamemodes.press_f4=[ F4 ]
+debug.gamemodes.select_next=%s дараах

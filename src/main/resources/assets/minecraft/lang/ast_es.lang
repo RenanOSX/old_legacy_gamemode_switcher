@@ -1,0 +1,4 @@
+debug.gamemodes.error=Unable to open game mode switcher; no permission
+debug.gamemodes.help=F3 + F4 = Abrir el conmutador de moos de xuegu
+debug.gamemodes.press_f4=[ F4 ]
+debug.gamemodes.select_next=%s Next

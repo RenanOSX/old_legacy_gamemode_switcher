@@ -1,0 +1,4 @@
+debug.gamemodes.error=Kunne ikkje opna spelmodusskiftar; manglar løyve
+debug.gamemodes.help=F3 + F4 = Opna spelmodusskiftar
+debug.gamemodes.press_f4=[ F4 ]
+debug.gamemodes.select_next=%s neste

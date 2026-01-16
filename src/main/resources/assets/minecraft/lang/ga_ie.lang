@@ -1,0 +1,4 @@
+debug.gamemodes.error=Ní féidir lasca mód cluiche a oscailt, nó cead a fháil
+debug.gamemodes.help=F3 + F4 = Switcher mód cluiche oscailte
+debug.gamemodes.press_f4=[ F4 ]
+debug.gamemodes.select_next=%s an ath rud

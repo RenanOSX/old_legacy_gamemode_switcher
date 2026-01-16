@@ -1,0 +1,4 @@
+debug.gamemodes.error=Nie ien stat um dun spelmoduswiesuller te öpene. Ginne towstemming
+debug.gamemodes.help=F3 + F4 = Spelmoduswiesuller openen
+debug.gamemodes.press_f4=[ F4 ]
+debug.gamemodes.select_next=Kommende: %s

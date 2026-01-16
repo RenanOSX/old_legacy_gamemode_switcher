@@ -1,0 +1,4 @@
+debug.gamemodes.error=खेल विधा परिवर्तक नहीं खोल पाया, अनुमति नहीं है
+debug.gamemodes.help=F3 + F4 = खेल विधा परिवर्तक खोलें
+debug.gamemodes.press_f4=[ F4 ]
+debug.gamemodes.select_next=%s अगला

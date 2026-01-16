@@ -1,0 +1,4 @@
+debug.gamemodes.error=Speelwisewahl kan wegen fehlen Berechtigung nich apen wurrn
+debug.gamemodes.help=F3 + F4 = Speelwise wahlen
+debug.gamemodes.press_f4=[ F4 ]
+debug.gamemodes.select_next=%s Anner

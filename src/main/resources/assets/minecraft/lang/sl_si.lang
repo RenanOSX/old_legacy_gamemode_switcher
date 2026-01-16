@@ -1,0 +1,4 @@
+debug.gamemodes.error=Sprememba načina igranja ni mogoča, ni primernih dovoljenj
+debug.gamemodes.help=F3 + F4 = Odpri okno za menjavo načina igre
+debug.gamemodes.press_f4=[ F4 ]
+debug.gamemodes.select_next=\"%s\" naslednji

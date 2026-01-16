@@ -1,0 +1,4 @@
+debug.gamemodes.error=Няўдача. У вас няма дазволу на пераключэнне рэжыму гульні
+debug.gamemodes.help=F3 + F4 = Адкрыць пераключальнік рэжыму гульні
+debug.gamemodes.press_f4=[ F4 ]
+debug.gamemodes.select_next=%s наступны

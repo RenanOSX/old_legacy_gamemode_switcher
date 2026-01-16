@@ -1,0 +1,4 @@
+debug.gamemodes.error=Խաղի ռեժիմները փոխելու համար բավարար իրավունքներ չեն
+debug.gamemodes.help=F3 + F4 = Բացել խաղի կերպի փոխիչը
+debug.gamemodes.press_f4=[ F4 ]
+debug.gamemodes.select_next=%s Հաջորդ

@@ -1,0 +1,4 @@
+debug.gamemodes.error=Nije moguće otvoriti prebacivač vrste igre, nema dopuštenja
+debug.gamemodes.help=F3 + F4 = Otvori prebacivač vrste igre
+debug.gamemodes.press_f4=[ F4 ]
+debug.gamemodes.select_next=%s sljedeći

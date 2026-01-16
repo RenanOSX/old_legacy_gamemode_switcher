@@ -1,0 +1,4 @@
+debug.gamemodes.error=Unable to open game mode switcher; no permission
+debug.gamemodes.help=F3 + F4 = Open game mode switcher
+debug.gamemodes.press_f4=[ F4 ]
+debug.gamemodes.select_next=%s Næsta

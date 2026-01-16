@@ -1,0 +1,4 @@
+debug.gamemodes.error=ಆಟದ ಮೋಡ್ ಸ್ವಿಚರ್ ತೆರೆಯಲು ಸಾಧ್ಯವಿಲ್ಲ, ಅನುಮತಿ ಇಲ್ಲ
+debug.gamemodes.help=ಎಫ್ 3 + ಎಫ್ 4 = ಓಪನ್ ಗೇಮ್ ಮೋಡ್ ಸ್ವಿಚರ್
+debug.gamemodes.press_f4=[ಎಫ್ 4]
+debug.gamemodes.select_next=%s ಮುಂದೆ

@@ -1,0 +1,4 @@
+debug.gamemodes.error=您沒有權限開啟遊戲模式切換器
+debug.gamemodes.help=F3 + F4 = 開啟遊戲模式切換器
+debug.gamemodes.press_f4=[ F4 ]
+debug.gamemodes.select_next=%s 下一個

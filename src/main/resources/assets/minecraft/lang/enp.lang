@@ -1,0 +1,4 @@
+debug.gamemodes.error=Unable to open game wayset wender, no thaveledge
+debug.gamemodes.help=F3 + F4 = Open game wayset wender
+debug.gamemodes.press_f4=[ F4 ]
+debug.gamemodes.select_next=%s Next

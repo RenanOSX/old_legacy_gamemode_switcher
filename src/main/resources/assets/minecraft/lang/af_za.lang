@@ -1,0 +1,4 @@
+debug.gamemodes.error=Kan nie die speelmodusveranderaar oop maak nie, jy het nie toestemming om dit te doen nie
+debug.gamemodes.help=F3 + F4 = Maak speelmodusveranderaar oop
+debug.gamemodes.press_f4=[ F4 ]
+debug.gamemodes.select_next=%s Next

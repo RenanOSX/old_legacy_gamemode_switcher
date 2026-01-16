@@ -1,0 +1,4 @@
+debug.gamemodes.error=Kunne ikke åbne spiltilstand skifter, ingen tilladelse
+debug.gamemodes.help=F3 + F4 = Åbn spiltilstand skifter
+debug.gamemodes.press_f4=[ F4 ]
+debug.gamemodes.select_next=%s Næste
