@@ -1,6 +1,6 @@
 [![LOGO](https://i.imgur.com/48V7w2w.png)](LOGO)
 
-# OldLegacyGMSwitcher
+# OldLegacyGMSwitcher Mod
 
 **Backported game mode switcher from 1.16+**
 
