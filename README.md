@@ -43,9 +43,9 @@ Consider adding tests or a small changelog entry for notable fixes and features.
 
 ## License 📄
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU License — see the [LICENSE](LICENSE) file for details.
 
-[![License: MIT](https://img.shields.io/badge/license-MIT-yellow.svg)](LICENSE)
+[![License: GNU](https://img.shields.io/badge/license-MIT-yellow.svg)](LICENSE)
 
 ---
 
