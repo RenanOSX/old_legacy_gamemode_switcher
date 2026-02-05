@@ -45,7 +45,7 @@ Consider adding tests or a small changelog entry for notable fixes and features.
 
 This project is licensed under the GNU License — see the [LICENSE](LICENSE) file for details.
 
-[![License: GNU](https://img.shields.io/badge/license-MIT-yellow.svg)](LICENSE)
+[![License: GNU](https://img.shields.io/badge/license-GNU-yellow.svg)](LICENSE)
 
 ---
 
